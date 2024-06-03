@@ -1,2 +1,1 @@
-# FCoding
-Offline Browser Coding
+FCoding
